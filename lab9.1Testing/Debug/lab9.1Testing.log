@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  lab9.1Testing.cpp
+C:\Users\LapStore\source\repos\lab9.1\lab9.1Testing\lab9.1Testing.cpp(8,1): error C2011: student: переопределение типа "struct"
+C:\Users\LapStore\source\repos\lab9.1\lab9.1\lab9.1.cpp(14): message : см. объявление "student"
+C:\Users\LapStore\source\repos\lab9.1\lab9.1Testing\lab9.1Testing.cpp(29,1): error C2027: использование неопределенного типа "student"
+C:\Users\LapStore\source\repos\lab9.1\lab9.1\lab9.1.cpp(14): message : см. объявление "student"
